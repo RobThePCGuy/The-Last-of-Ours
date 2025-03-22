@@ -9,3 +9,6 @@ Check it out!
 - [TLOU3-Chapter3.md](./TLOU3-Chapter3.md)
 - [TLOU3-Chapter4.md](./TLOU3-Chapter4.md)
 - [TLOU3-Chapter5.md](./TLOU3-Chapter5.md)
+
+Need inspiration?
+ - [The-Last-of-Us-Complete-Universe.md](./The-Last-of-Us-Complete-Universe.md)
